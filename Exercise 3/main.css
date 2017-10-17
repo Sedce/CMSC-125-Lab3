@@ -1,0 +1,19 @@
+body {
+}
+.tables{
+  border-collapse: collapse;
+  margin-left: 100px;
+  float: left;
+}
+.tables th{
+
+          border-style: solid;
+          border-radius: 1px;
+          border-color: black;
+}
+.tables td{
+
+          border-style: solid;
+          border-radius: 1px;
+          border-color: black;
+}
